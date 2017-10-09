@@ -1,6 +1,6 @@
 # State Pattern
 
-### Implementing software like a state machine.
+#### Consists of implementing software like a state machine.
 
 ## Problem Scenario
 An application or device have a state-dependent interaction. Meaning that it operates through transitions in a way that a <b>state machine</b> would. A classic example is the vending machine example. In this case, once the machine operates on a few different states, among which we can find:
