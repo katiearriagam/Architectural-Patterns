@@ -1,6 +1,6 @@
-# State and Proxy Patterns
+# Architectural Patterns
 
-Sample implementation of state and proxy patterns for software architecture course.
+Sample implementation of architectural patterns for software architecture course.
 
 In this repo you will find 2 directories (one per pattern) containing: 
 <ol>
