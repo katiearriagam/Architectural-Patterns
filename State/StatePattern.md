@@ -37,5 +37,7 @@ Finally, a wrapper class (aka. the state machine) will be created to keep track 
   <li>Implement methods to jump between states using such transitions.</li>
 </ol>
 
+<img src="https://scontent.fntr6-2.fna.fbcdn.net/v/t34.0-12/22554466_10156689400481258_1529540319_n.png?oh=bc7344cb2b8a368f751f90729e4d2ab1&oe=59E5DEA7" />
+
 ## Reference
 https://sourcemaking.com/design_patterns/state
