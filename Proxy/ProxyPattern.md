@@ -27,7 +27,7 @@ Then in the application, instead of instantiating the real object, we instantiat
   <li>Instantiate the proxy rather than the real objet in the application.</li>
 </ol>
 
-<img src="https://scontent.fntr6-2.fna.fbcdn.net/v/t34.0-12/22500984_10156689481401258_1549054923_n.png?oh=beae003a663ef0566efceb6e2d59eef4&oe=59E5F00F" />
+<img src="https://scontent.fmfe1-1.fna.fbcdn.net/v/t34.0-12/22500984_10156689481401258_1549054923_n.png?oh=f7c78dbec298ddd78a694832be16a53c&oe=59EBDECF" />
 
 ## Reference
 https://sourcemaking.com/design_patterns/proxy
